@@ -1,0 +1,13 @@
+D:\Edabit\Return the Sum of Two Numbers\C#\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.csprojAssemblyReference.cache
+D:\Edabit\Return the Sum of Two Numbers\C#\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.AssemblyInfoInputs.cache
+D:\Edabit\Return the Sum of Two Numbers\C#\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.AssemblyInfo.cs
+D:\Edabit\Return the Sum of Two Numbers\C#\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.csproj.CoreCompileInputs.cache
+D:\Edabit\Return the Sum of Two Numbers\C#\SumOfTwoNumbers\SumOfTwoNumbers\bin\Debug\netcoreapp3.1\SumOfTwoNumbers.exe
+D:\Edabit\Return the Sum of Two Numbers\C#\SumOfTwoNumbers\SumOfTwoNumbers\bin\Debug\netcoreapp3.1\SumOfTwoNumbers.deps.json
+D:\Edabit\Return the Sum of Two Numbers\C#\SumOfTwoNumbers\SumOfTwoNumbers\bin\Debug\netcoreapp3.1\SumOfTwoNumbers.runtimeconfig.json
+D:\Edabit\Return the Sum of Two Numbers\C#\SumOfTwoNumbers\SumOfTwoNumbers\bin\Debug\netcoreapp3.1\SumOfTwoNumbers.runtimeconfig.dev.json
+D:\Edabit\Return the Sum of Two Numbers\C#\SumOfTwoNumbers\SumOfTwoNumbers\bin\Debug\netcoreapp3.1\SumOfTwoNumbers.dll
+D:\Edabit\Return the Sum of Two Numbers\C#\SumOfTwoNumbers\SumOfTwoNumbers\bin\Debug\netcoreapp3.1\SumOfTwoNumbers.pdb
+D:\Edabit\Return the Sum of Two Numbers\C#\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.dll
+D:\Edabit\Return the Sum of Two Numbers\C#\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.pdb
+D:\Edabit\Return the Sum of Two Numbers\C#\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.genruntimeconfig.cache
